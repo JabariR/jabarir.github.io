@@ -40,6 +40,7 @@ permalink: /bez-notes/
 
 ##  Terminal
 - [Terminal Cheatsheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-))
+- [How to Be a Terminal Pro](https://code.tutsplus.com/courses/how-to-be-a-terminal-pro)
 
 
 # TODO
